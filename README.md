@@ -40,7 +40,8 @@ NOT IMPORTANT/NEEDED UNLESS DOING "MISC"
 
 ![unknow123213n](https://user-images.githubusercontent.com/83344789/185798306-9c14532a-2215-4e01-af04-01d34c7b7d0b.png)
 
-MyBB.whoPosted(tid) shows users that posted the most comments in that thread. Looks like this: https://media.discordapp.net/attachments/1000447120261791834/1010916645243457647/unknown.png
+MyBB.whoPosted(tid) shows users that posted the most comments in that thread. Looks like this: 
+![image](https://user-images.githubusercontent.com/83344789/185798342-0f9f1919-40bf-4dda-88b2-63ceb0172167.png)
 
 MyBB.reputation(uid) shows the rate/reputation page, does exactly the same as pressing "Rate" on a user's profile.
 
