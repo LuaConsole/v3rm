@@ -165,4 +165,4 @@ submitReport: ƒ (pid)
 
 # misc
 
-https://v3rmillion.net/alerts.php?action=delete_all&my_post_key=ENTER POSTKEY HERE&ret_link=https%3A%2F%2Fv3rmillion.net%2Fforumdisplay.php%3Ffid%3D11
+https://v3rmillion.net/alerts.php?action=delete_all&my_post_key= ENTER POSTKEY HERE &ret_link=https%3A%2F%2Fv3rmillion.net%2Fforumdisplay.php%3Ffid%3D11
