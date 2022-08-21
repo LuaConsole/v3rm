@@ -1,10 +1,15 @@
 # MyBB stuffs, v3rm edition.
 
 tid = thread id, for example; https://v3rmillion.net/showthread.php?tid="1184895"
+
 pid = post id, for example; https://v3rmillion.net/showthread.php?pid=8344660#pid"8344660"
+
 uid = user id, for example; https://v3rmillion.net/member.php?action=profile&uid="2386065"
+
 fid = forum/section id, for example; https://v3rmillion.net/forumdisplay.php?fid=3
+
 rid = reputation id, not sure on this one. no example.
+
 bburl = link to DMs I'dassume.
 
 can execute either in console or with "javascript:" method. (javascript:MyBB . . .) in search bar.
