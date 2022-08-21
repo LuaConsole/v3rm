@@ -10,6 +10,8 @@ fid = forum/section id, for example; https://v3rmillion.net/forumdisplay.php?fid
 
 rid = reputation id, not sure on this one. no example.
 
+eid = event id, not sure what this does.
+
 bburl = link to DMs I'dassume.
 
 can execute either in console or with "javascript:" method. (javascript:MyBB . . .) in search bar.
