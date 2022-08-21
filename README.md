@@ -2,6 +2,8 @@
 
 tid = thread id, for example; https://v3rmillion.net/showthread.php?tid="1184895"
 
+tid = tracking id
+
 pid = post id, for example; https://v3rmillion.net/showthread.php?pid=8344660#pid"8344660"
 
 uid = user id, for example; https://v3rmillion.net/member.php?action=profile&uid="2386065"
@@ -11,6 +13,22 @@ fid = forum/section id, for example; https://v3rmillion.net/forumdisplay.php?fid
 rid = reputation id, not sure on this one. no example.
 
 eid = event id, not sure what this does.
+
+aid = app id
+
+el = event label
+
+ev = event value
+
+ea = event action
+
+e = event
+
+sn = social network
+
+sa = social action
+
+expid = xid
 
 bburl = link to DMs I'dassume.
 
@@ -83,3 +101,57 @@ unHTMLchars: ƒ (text)
 viewNotes: ƒ (uid)
 
 whoPosted: ƒ (tid)
+
+#thread
+
+### thread is self explanatory, all ids are above.
+
+also works with javascript:
+
+clearMultiQuoted: ƒ ()
+
+deletePost: ƒ (pid)
+
+init: ƒ ()
+
+initMultiQuote: ƒ ()
+
+initQuickReply: ƒ ()
+
+loadMultiQuoted: ƒ ()
+
+multiQuote: ƒ (pid)
+
+multiQuotedLoaded: ƒ (request)
+
+quickEdit: ƒ (el)
+
+quickReply: ƒ (e)
+
+quickReplyDone: ƒ (request,status)
+
+restorePost: ƒ (pid)
+
+showIgnoredPost: ƒ (pid)
+
+viewNotes: ƒ (tid)
+
+# report
+
+reportReputation(pid) almost unusable.
+
+reportPost(pid)
+
+reportUser(pid)
+
+reportError()
+
+init: ƒ ()
+
+reportPost: ƒ (pid)
+
+reportReputation: ƒ (pid)
+
+reportUser: ƒ (pid)
+
+submitReport: ƒ (pid)
