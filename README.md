@@ -34,6 +34,12 @@ bburl = link to DMs I'dassume.
 
 can execute either in console or with "javascript:" method. (javascript:MyBB . . .) in search bar.
 
+# How do I get my postkey?
+
+NOT IMPORTANT/NEEDED UNLESS DOING "MISC"
+
+![unknow123213n](https://user-images.githubusercontent.com/83344789/185798306-9c14532a-2215-4e01-af04-01d34c7b7d0b.png)
+
 MyBB.whoPosted(tid) shows users that posted the most comments in that thread. Looks like this: https://media.discordapp.net/attachments/1000447120261791834/1010916645243457647/unknown.png
 
 MyBB.reputation(uid) shows the rate/reputation page, does exactly the same as pressing "Rate" on a user's profile.
@@ -155,3 +161,7 @@ reportReputation: ƒ (pid)
 reportUser: ƒ (pid)
 
 submitReport: ƒ (pid)
+
+# misc
+
+https://v3rmillion.net/alerts.php?action=delete_all&my_post_key=ENTER POSTKEY HERE&ret_link=https%3A%2F%2Fv3rmillion.net%2Fforumdisplay.php%3Ffid%3D11
